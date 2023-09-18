@@ -1,6 +1,6 @@
 # Busca de Filmes com API OMDB
 
-![]()
+![](https://github.com/kinishii1/Infofilmes/blob/main/infofilmes.gif)
 
 Este é um projeto prático de desenvolvimento web que demonstra como usar a API OMDB para buscar informações sobre filmes e séries. Ele utiliza conceitos de async/await para fazer chamadas assíncronas à API e exibir os detalhes do filme pesquisado. Além disso, inclui um spinner de carregamento para melhorar a experiência do usuário durante as buscas.
 
